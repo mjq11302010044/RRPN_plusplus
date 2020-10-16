@@ -1,6 +1,13 @@
 # RRPN++: Guidance Towards More Accurate Scene Text Detection
 Report can be viewed at: https://arxiv.org/abs/2009.13118
 
+# Hightlights
+
+- 89.5 F-measure in single scale in ICDAR 2015 benchmark (https://rrc.cvc.uab.es/?ch=4&com=evaluation&view=method_info&task=1&m=78081).
+- 92.0 F-measure in single scale in ICDAR 2013 and testing speed can reach 13.3 fps with 640px (tested in single GPU of GTX 1080Ti).
+- Adopting RRoI Align in Detectron2, Reimplement RoI-Rotate in FOTS (see ROIAlignRotatedKeep).
+- Text Spotter with Transformer (training and testing).
+
 ## Environments
 - Ubuntu 16.04
 - Cuda 10 or 9

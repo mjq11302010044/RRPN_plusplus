@@ -8,6 +8,8 @@
 - Other packages like numpy, cv2.
 
 
+
+
 ```bash
 # first, make sure that your conda is setup properly with the right environment
 # for that, check that `which conda`, `which pip` and `which python` points to the
