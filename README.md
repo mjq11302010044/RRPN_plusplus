@@ -112,7 +112,7 @@ Train a detector of RRPN++
 python tools/train_net.py --config-file=configs/arpn/e2e_rrpn_R_50_C4_1x_train_AFPN_RT_LERB.yaml
 ```
 
-Train a spotter (Used in RRPN++ report) of RRPN++
+Train a spotter (Used in RRPN++ report and we strongly recommand to use) of RRPN++
 
 ```bash
 # In your root of RRPN
