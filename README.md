@@ -127,6 +127,7 @@ python tools/train_net.py --config-file=configs/arpn_E2E/e2e_rrpn_R_50_C4_1x_tra
 
 - By adding the following setting into your configure yaml to test the datasets, or you can re-implement the file to test your images.
 - One of the configure file we recommand is `$RRPN_ROOT/configs/arpn_E2E/e2e_rrpn_R_50_C4_1x_test_AFPN_RT_LERB_Spotter.yaml`
+- Choose the dataset you want to evaluate on.
 
 ```bash
 TEST:
@@ -134,7 +135,7 @@ TEST:
   MODE: "DET" # DET for detection evaluation or E2E for recognition results in the spotter
 ```
 
-## Pretrained Weights for Testing
+## Pretrained Weights for Training and Testing
 - Here we provide some pretained weights for testing in google drive:
 
 ```bash
