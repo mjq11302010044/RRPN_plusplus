@@ -34,7 +34,7 @@ if not os.path.isdir(result_dir):
 
 coco_demo = RRPNDemo(
     cfg,
-    min_image_size=1080,
+    min_image_size=1440,
     confidence_threshold=0.1,
 )
 
@@ -159,7 +159,7 @@ for idx in range(off_start, off_end):
         probs_np = np.max(word_probs_np, axis=-1)
 
         ws_thres = 0.8
-        bs_thres = 0.5
+        bs_thres = 0.7
 
         w_scores = []
         for i in range(probs_np.shape[0]):
