@@ -149,6 +149,7 @@ TEST:
 ## Final 
 - Enjoy it with all the codes.
 - Citing us if you find it work in your projects.
+
 ```
 @article{ma2020rrpn++,
   title={RRPN++: Guidance Towards More Accurate Scene Text Detection},
@@ -157,3 +158,7 @@ TEST:
   year={2020}
 }
 ```
+
+## Special Thank
+- My family for FIRM SUPPORT of devices and power supply.
+- Jingye Chen's (https://github.com/JinGyeSetBirdsFree) support of the code and report
