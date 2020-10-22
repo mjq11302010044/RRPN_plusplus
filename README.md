@@ -159,6 +159,6 @@ TEST:
 }
 ```
 
-## Special Thank
+## Special Thanks
 - My family for FIRM SUPPORT of devices and power supply.
-- Jingye Chen's (https://github.com/JinGyeSetBirdsFree) support of the code and report
+- Jingye Chen's (https://github.com/JinGyeSetBirdsFree) support of the code and report.
