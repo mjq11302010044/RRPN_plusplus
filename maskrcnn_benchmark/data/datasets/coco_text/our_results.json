@@ -1,0 +1,8 @@
+[{"utf8_string": "N23FKK", "image_id": 498601, "bbox": [195, 224, 36, 21],"score": 1,"category_id": 91},
+{"utf8_string": "nooo", "image_id": 359104, "bbox": [178, 175, 23, 15],"score": 2,"category_id": 91},
+{"utf8_string": "clo", "image_id": 359104, "bbox": [127, 98, 50, 25],"score": 3,"category_id": 91},
+{"utf8_string": "parking", "image_id": 359104, "bbox": [205, 175, 69, 21],"score": 1.2,"category_id": 91},
+{"utf8_string": "fri", "image_id": 359104, "bbox": [281, 202, 43, 31],"score": 1.4,"category_id": 91},
+{"utf8_string": "ayoooooo", "image_id": 359104, "bbox": [276, 110, 43, 24],"score": 1.5,"category_id": 91},
+{"utf8_string": "ma", "image_id": 359104, "bbox": [289, 147, 19, 15],"score": 1.6,"category_id": 91},
+{"utf8_string": "ma", "image_id": 245823, "bbox": [284, 176, 32, 23],"score": 0.3,"category_id": 91}]
