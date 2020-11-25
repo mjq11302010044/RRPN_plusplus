@@ -122,7 +122,7 @@ python tools/train_net.py --config-file=configs/arpn_E2E/e2e_rrpn_R_50_C4_1x_tra
 - Multi-GPU phase is not testing yet, be careful to use GPU more than 1.
 
 ## Testing
-- Using  `$RRPN_ROOT/demo/ICDAR19_eval_script.py` or `$RRPN_ROOT/demo/rrpn_e2e_series.py`(Strongly recommanded) to test images you want. The demo will generate a text for your detected coodinates.
+- Using  `$RRPN_ROOT/demo/ICDAR19_eval_script.py` or `$RRPN_ROOT/demo/rrpn_e2e_infer.py`(Strongly recommanded) to test images you want. The demo will generate a text for your detected coodinates.
 - Showing the detected image by ture the variable `vis` to True.
 
 - By adding the following setting into your configure yaml to test the datasets, or you can re-implement the file to test your images.
