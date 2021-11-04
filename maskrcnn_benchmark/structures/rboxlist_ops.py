@@ -78,8 +78,8 @@ def eastbox2rbox(eastbox, base_size, feature_size, scale, eps=1e-8):
     angle_pred = eastbox[..., 4]
 
     # [0, 1] to [-45, 135]
-    pred_a = (angle_pred - 0.5) * 90.
-    pred_arc = (angle_pred - 0.5) * 3.141592652358979 / 2.
+    pred_a = (angle_pred - 0.5) * 180.
+    pred_arc = (angle_pred - 0.5) * 3.141592652358979# / 2.
     pred_w = left + right
     pred_h = top + bottom
 
@@ -138,8 +138,8 @@ def eastbox2rbox_np(eastbox, base_size, feature_size, scale, eps=1e-8):
     angle_pred = eastbox[..., 4]
 
     # [0, 1] to [-45, 135]
-    pred_a = (angle_pred - 0.5) * 90.
-    pred_arc = (angle_pred - 0.5) * 3.141592652358979 / 2.
+    pred_a = (angle_pred - 0.5) * 180.
+    pred_arc = (angle_pred - 0.5) * 3.141592652358979# / 2.
     pred_w = left + right
     pred_h = top + bottom
 
