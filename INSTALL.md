@@ -43,7 +43,7 @@ python setup.py build_ext install
 # install PyTorch Detection
 cd ~/github
 git clone https://github.com/mjq11302010044/RRPN_plusplus.git
-cd RRPN_pytorch
+cd RRPN_plusplus
 # the following will install the lib with
 # symbolic links, so that you can modify
 # the files if you want and won't need to
