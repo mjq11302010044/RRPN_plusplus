@@ -20,10 +20,6 @@ Report can be viewed at: https://arxiv.org/abs/2009.13118
 
 ![alt text](demo/visualization.png "Results from IC15 testing set")
 
-## Highlights
-- **From original repo:** In pytorch 1.0, Somehow faster than original repo in both training and inference.
-- **Training and evaluation checked:** Testing in IC15 with training data in {IC13, IC15, IC17mlt}, and receives Fscore of 83% vs. 81% in caffe repo.
-- **What's new:** RRoI Pooling is replaced with RRoI Alignment(bilinear interpolation for sampling), FPN structure supported, easy to change various backbones for different purposes.
 
 ## Installation
 
