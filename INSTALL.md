@@ -4,7 +4,7 @@
 - Ubuntu 16.04
 - Cuda 10.0 or 9.0
 - python >=3.5
-- **pytorch 1.6 or higher**
+- **pytorch 1.7 or higher**
 - Other packages like numpy, cv2.
 
 
