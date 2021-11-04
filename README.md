@@ -7,6 +7,8 @@ Report can be viewed at: https://arxiv.org/abs/2009.13118
 - 92.0 F-measure in single scale in ICDAR 2013 and testing speed can reach 13.3 fps with 640px (tested in single GPU of GTX 1080Ti).
 - Adopting RRoI Align in Detectron2, Reimplement RoI-Rotate in FOTS (see ROIAlignRotatedKeep).
 - Text Spotter with Transformer (training and testing).
+- Support for higher pytorch verison >=1.7.
+- Bug fixed for rbox cannot detect angle over 45.
 
 ## Environments
 - Ubuntu 16.04
