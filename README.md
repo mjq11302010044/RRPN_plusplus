@@ -12,7 +12,7 @@ Report can be viewed at: https://arxiv.org/abs/2009.13118
 - Ubuntu 16.04
 - Cuda 10 or 9
 - python >=3.5
-- pytorch >= 1.7
+- **pytorch >= 1.7 (Higher version supported)** 
 - Other packages like numpy, cv2.
 
 
