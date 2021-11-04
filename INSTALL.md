@@ -53,8 +53,8 @@ python setup.py build develop
 #-------
 python rotation_setup.py install
 
-# The compiled .so file is in ./build/linux-x86_64-3.8/maskrcnn_benchmark & ./build/linux-x86_64-3.8/rotation for py3.8
+# The compiled .so file is in ./build/lib.linux-x86_64-3.8/maskrcnn_benchmark & ./build/lib.linux-x86_64-3.8/rotation for py3.8
 # If you use Python 3.x to compile, the lib folder will be like 'lib.xxxxx'
-mv ./build/linux-x86_64-3.8/rotation/*.so ./rotation
-mv ./build/linux-x86_64-3.8/detectron2/*.so ./maskrcnn_benchmark
+mv ./build/lib.linux-x86_64-3.8/rotation/*.so ./rotation
+mv ./build/lib.linux-x86_64-3.8/detectron2/*.so ./maskrcnn_benchmark
 #-------
