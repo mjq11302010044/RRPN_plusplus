@@ -133,14 +133,6 @@ TEST:
   MODE: "DET" # DET for detection evaluation or E2E for recognition results in the spotter
 ```
 
-## Pretrained Weights for Training and Testing
-- Here we provide some pretained weights for testing in google drive:
-
-```bash
-  ICDAR 2015 F-measure 89.0 : https://drive.google.com/file/d/1nv-ZjbYBj8ePZRa_fAhbHvzm7HqSxPWK/view?usp=sharing
-  SynthText pretrained: https://drive.google.com/file/d/1RuqEg8pkN_l-4_KhOHzOeZcFiihQlxUT/view?usp=sharing
-```
-
 
 ## More Results 
 
