@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59eb5e20-7860-415e-9240-8aa41266ab87" name="oct9-RRPN++" url="http://localhost">
+        <fileTransfer host="localhost" port="7008" rootFolder="/home/majianqi/workspace/RRPN++" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="7008" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

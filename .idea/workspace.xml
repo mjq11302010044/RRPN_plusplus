@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42f6808a-5dcb-4340-92e3-6a14b813f085" name="Default Changelist" comment="" />
+    <list default="true" id="42f6808a-5dcb-4340-92e3-6a14b813f085" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RRPN++_release.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_cache/alphabet_IC13_IC15_Syn800K_pro.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,44 +19,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/INSTALL.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="220">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="142" column="32" lean-forward="true" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/ICDAR19_eval_script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="136" column="5" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PROJECTS</find>
+      <find>PY3</find>
+      <find>LS</find>
+      <find>_DEBUG</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,22 +40,32 @@
         <option value="$PROJECT_DIR$/demo/ICDAR19_eval_script.py" />
         <option value="$PROJECT_DIR$/INSTALL.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/maskrcnn_benchmark/data/datasets/rotation_series.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/__init__.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/setup.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/utils/imports.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/layers/__init__.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/layers/nms.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/utils/model_zoo.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/utils/c2_model_loading.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/maskrcnn_benchmark/config/paths_catalog.py" />
+        <option value="&lt;59eb5e20-7860-415e-9240-8aa41266ab87&gt;/configs/arpn/e2e_rrpn_R_50_C4_1x_train_AFPN_RT_LERB.yaml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-136" />
-    <option name="y" value="92" />
-    <option name="width" value="1934" />
-    <option name="height" value="979" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="184" />
+    <option name="y" value="194" />
+    <option name="width" value="1683" />
+    <option name="height" value="895" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,22 +81,22 @@
             <path>
               <item name="RRPN++_release" type="b2602c69:ProjectViewProjectNode" />
               <item name="RRPN++_release" type="462c0819:PsiDirectoryNode" />
-              <item name="maskrcnn_benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="csrc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RRPN++_release" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RRPN++_release" type="462c0819:PsiDirectoryNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -134,24 +125,21 @@
       <option name="presentableId" value="Default" />
       <updated>1602812287209</updated>
       <workItem from="1602812288830" duration="3715000" />
+      <workItem from="1625142338600" duration="1751000" />
+      <workItem from="1625201568096" duration="5549000" />
+      <workItem from="1636000089409" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3715000" />
+    <option name="totallyTimeSpent" value="11044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-136" y="92" width="1934" height="979" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15422077" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14864865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,49 +147,32 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info active="true" anchor="right" id="Remote Host" order="5" visible="true" weight="0.23783784" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maskrcnn_benchmark/data/datasets/rotation_series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shape_log.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_test_AFPN_RT.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_train_AFPN_SynthText_pretrain.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/shape_log.txt" />
+    <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_test_AFPN_RT.yaml" />
+    <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_train_AFPN_SynthText_pretrain.yaml" />
     <entry file="file://$PROJECT_DIR$/configs/e2e_rrpn_R_50_C4_1x_ICDAR13_toy.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/configs/e2e_rrpn_R_50_C4_1x_train_AFPN_RT_LERB_TABLEDET.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_docVQA_train_AFPN.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/e2e_rrpn_R_50_C4_1x_train_AFPN_RT_LERB_TABLEDET.yaml" />
+    <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_docVQA_train_AFPN.yaml" />
     <entry file="file://$PROJECT_DIR$/configs/arpn/e2e_rrpn_R_50_C4_1x_train_AFPN_RT_LERB_from_scratch.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -231,11 +202,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/ICDAR19_eval_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
+        <state relative-caret-position="2640">
           <caret line="136" column="5" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="316">
+            <caret line="145" selection-start-line="145" selection-end-line="145" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -249,13 +230,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="250">
-            <caret line="142" column="32" lean-forward="true" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/maskrcnn_benchmark/data/datasets/rotation_series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="419" column="24" selection-start-line="419" selection-start-column="24" selection-end-line="419" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maskrcnn_benchmark/layers/roi_align_rotated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+          <folding>
+            <element signature="e#71#91#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
