@@ -281,7 +281,7 @@ class RPNLossComputation(object):
         # box_target: same as box_regression
 
         # gt in arc, pred in [0, 1]
-        angle_pred = (box_regression[..., 4:] - 0.5) * 3.14159265358979 / 2.
+        angle_pred = (box_regression[..., 4:] - 0.5) * 3.14159265358979 #/ 2.
         angle_gt = box_target[..., 4:]
 
         # angle_gt_np = angle_gt.data.cpu().numpy().reshape(-1, 1)
