@@ -48,11 +48,13 @@ cd RRPN_plusplus
 # symbolic links, so that you can modify
 # the files if you want and won't need to
 # re-build it
-python setup.py build develop
 
+python setup.py build develop
 #-------
 python rotation_setup.py install
 
+# The compiled .so file is in ./build/linux-x86_64-3.8/maskrcnn_benchmark & ./build/linux-x86_64-3.8/rotation for py3.8
 # If you use Python 3.x to compile, the lib folder will be like 'lib.xxxxx'
-mv build/lib/rotation/*.so ./rotation
+mv ./build/linux-x86_64-3.8/rotation/*.so ./rotation
+mv ./build/linux-x86_64-3.8/maskrcnn_benchmark/*.so ./maskrcnn_benchmark
 #-------
